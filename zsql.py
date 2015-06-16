@@ -22,4 +22,3 @@ for line in open('pet'):
 
 conn.commit()
 conn.close()
-#hit
